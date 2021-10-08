@@ -2,5 +2,15 @@
   background-color: pink;
   border: 1px solid white;
   text-align: center;
+
 }
 
+.box-blue{
+  background-color: #00a2ff;
+  margin: 5px auto;
+  border: 1px solid pink;
+}
+
+.row-margin{
+  margin-bottom: 30px;
+}
